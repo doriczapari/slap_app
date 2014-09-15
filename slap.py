@@ -2,7 +2,6 @@ import sqlite3
 import uptime
 import datetime
 
-# Dori! This is not the actual path!
 
 db = sqlite3.connect("../.mozilla/firefox/yy35kyvm.default/places.sqlite") 
 
